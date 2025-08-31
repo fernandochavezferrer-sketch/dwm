@@ -1,0 +1,34 @@
+.header {
+    position: sticky;
+    top:0;
+    left:0;
+    width:100%;
+    height:100px;
+    background:rgba(28,71,255,0.7);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    z-index:1;
+}
+
+.body {
+    font-size: 70px;
+    text-align: center;
+    color: #6610f2;
+    font-family: Comic Sans MS;
+}
+
+.título {
+    font-size: 40px;
+    text-align: center;
+    color: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tabla{
+    width: 95%;
+    font-size: 1.5vw;
+    text-align: center;
+    font-family: Comic Sans MS;
+     color: crimson;
+}
